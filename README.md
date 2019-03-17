@@ -4,6 +4,8 @@ The eight queens puzzle is the problem of placing eight chess queens on an 8×8 
 There are 92 possible solutions of which 12 are distinct solutions.
 We have already executed this problem in our ongoing campus recuritment training once, which I've inferred and executed as same. 
 
-The ASCII chart used for drawing the chessboard of 8x8 is given below:
+The ASCII chart used for drawing the chessboard of 8x8 is placed in the above section.
+
+Also, 4 Queens problem is explained in the documemt file above.
 
 
