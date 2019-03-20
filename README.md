@@ -6,7 +6,7 @@ We have already executed this problem in our ongoing campus recuritment training
 
 The ASCII chart used for drawing the chessboard of 8x8 is placed in the above section:
 
-![Image of ASCII chart] (https://github.com/Soumya1698/8-Queens_problem/blob/master/ascii.png)
+! [Image of ASCII chart](https://github.com/Soumya1698/8-Queens_problem/blob/master/ascii.png)
 
 Also, **4 Queens problem** is explained in the documemt [file above!](https://github.com/Soumya1698/8-Queens_problem/blob/master/4_Queens.docx)
 
