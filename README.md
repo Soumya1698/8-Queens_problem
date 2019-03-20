@@ -10,4 +10,4 @@ The ASCII chart used for drawing the chessboard of 8x8 is placed below:
 
 Also, **4 Queens problem** is explained in the documemt [file above!](https://github.com/Soumya1698/8-Queens_problem/blob/master/4_Queens.docx)
 
-
+* * POINTS TO REMEMBER * *
