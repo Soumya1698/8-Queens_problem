@@ -12,4 +12,11 @@ Also, **4 Queens problem** is explained in the documemt [file above!](https://gi
 
 *POINTS TO REMEMBER:* 
 - The above program can only be executed in **TURBO C++**.
-
+- Whenever you goto next row,col, start from col=0
+  * check if it is safe.
+  * If it is safe, placequeen -> user's view, update queen's column position.
+  * goto next row.
+- Backtrack (checking for safety at column value)
+  * if(col==8), remove Queen at user's view, assign -1 at programmer's view too. 
+  * Start from the previous location after backtracking, copy of the column value.
+  * We only check safety at left dialgonal, right diagonal, and up from the position(i.e,previous location after backtracking).
